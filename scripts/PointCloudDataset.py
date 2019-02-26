@@ -7,7 +7,6 @@ import numpy as np
 
 
 class PointCloudDataset(Dataset):
-    """Face Landmarks dataset."""
 
     def __init__(self, txt_dir):
         """

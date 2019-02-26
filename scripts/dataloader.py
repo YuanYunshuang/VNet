@@ -1,4 +1,4 @@
-# ====Autor: Yuan. Yunshuang====
+# ====Author: Yuan. Yunshuang====
 # ====Date: Dec. 30. 2018=======
 
 
